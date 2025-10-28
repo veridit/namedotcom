@@ -1,4 +1,4 @@
-module github.com/caddy-dns/namedotcom
+module github.com/veridit/namedotcom
 
 go 1.25
 
